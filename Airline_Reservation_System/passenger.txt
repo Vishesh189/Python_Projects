@@ -1,0 +1,2 @@
+Name~age~sex~contact no.~email id~date
+['Vishesh']~['22']~['Male']~9999999999~vigds@gmail.com~22
